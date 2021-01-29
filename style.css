@@ -1,0 +1,269 @@
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+/* Add some content at the bottom of the video/page */
+.content {
+    position: fixed;
+    bottom: 0;
+
+  animation: rotation 1s infinite linear;
+}
+.xqc {
+    position: fixed;
+    top: 0;
+    
+    animation: rotation 8s infinite linear;
+}
+
+.funnylaugh {
+    position: fixed;
+    left: 880px;
+    top: 680px;
+}
+.bangin {
+    position: fixed;
+    left: 880px;
+    top: 680px;
+}
+
+.bangin1 {
+    position: fixed;
+    down: 800px;
+}
+.bangin2 {
+    position: fixed;
+    top: 500px;
+    animation: rotation 8s infinite linear;
+}
+.bangin3 {
+    position: fixed;
+    left: 200px;
+    down: 400px;
+    animation: rotation 1s infinite linear;
+
+}
+.bangin4 {
+    position: fixed;
+    down: 300px;
+    animation: rotation 8s infinite linear;
+
+}
+.opium {
+    position: fixed;
+    top: 500px;
+
+}
+.bruh {
+    position: fixed;
+}
+
+.kekwing {
+    position: fixed;
+    left: 880px;
+    down: 800px;
+}
+.fatmei {
+    position: fixed;
+    left: 1500px;
+    down: 500px;
+}
+.KEKW {
+    position: fixed;
+    left: 1500px;
+    top: 500px;
+}
+
+.boy {
+    position: fixed;
+    left: 1200px;
+    top: 400px;
+}
+.barbara {
+    position: fixed;
+    left: 390px;
+    down: 580px;
+}
+.korea {
+    position: fixed;
+    left: 900px;
+    top: 500px;
+    animation: rotation 1s infinite linear;
+}
+
+.chinaapple {
+    position: fixed;
+    left: 1270px;
+    top: 200px;
+}
+.allah {
+    position: fixed;
+    left: 1270px;
+    top: 700px;
+    animation: rotation 1s infinite linear;
+}
+.LEWD {
+    position: fixed;
+    left: 1270px;
+    top: 670px;
+}
+.xiao {
+    position: fixed;
+    right: 1000px;
+    top: 715px;
+}
+.jebaited {
+    position: fixed;
+    left: 790px;
+    top: 290px;
+}
+.kreygasm {
+    position: fixed;
+    left: 390px;
+    top: 580px;
+    animation: rotation 8s infinite linear;
+
+    
+}
+
+.kreygasm1 {
+    position: fixed;
+    left: 350px;
+    top: 180px;
+
+}
+.kreygasm2 {
+    position: fixed;
+    left: 350px;
+    top: 110px;
+
+}
+.kreygasm3 {
+    position: fixed;
+    left: 350px;
+    top: 250px;
+
+}
+.kreygasm4 {
+    position: fixed;
+    left: 350px;
+    top: 320px;
+
+}
+.kreygasm5 {
+    position: fixed;
+    left: 440px;
+    top: 320px;
+
+}
+.kreygasm6 {
+    position: fixed;
+    left: 530px;
+    top: 320px;
+
+}
+.kreygasm7 {
+    position: fixed;
+    left: 620px;
+    top: 320px;
+
+}
+.kreygasm8 {
+    position: fixed;
+    left: 710px;
+    top: 320px;
+
+}
+.kreygasm9 {
+    position: fixed;
+    left: 800px;
+    top: 320px;
+
+}
+.kreygasm10 {
+    position: fixed;
+    left: 800px;
+    top: 250px;
+
+}
+.kreygasm11 {
+    position: fixed;
+    left: 800px;
+    top: 180px;
+
+}
+.kreygasm12 {
+    position: fixed;
+    left: 800px;
+    top: 110px;
+
+}
+.kreygasm13 {
+    position: fixed;
+    left: 800px;
+    top: 40px;
+
+}
+.kreygasm14 {
+    position: fixed;
+    left: 710px;
+    top: 40px;
+
+}
+.kreygasm15 {
+    position: fixed;
+    left: 620px;
+    top: 40px;
+
+}
+.kreygasm16 {
+    position: fixed;
+    left: 530px;
+    top: 40px;
+
+}
+.kreygasm17 {
+    position: fixed;
+    left: 440px;
+    top: 40px;
+
+}
+.kreygasm18 {
+    position: fixed;
+    left: 350px;
+    top: 40px;
+
+}
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+  }
+
+
+
+/* Style the button used to pause/play the video */
+
+/* .lol {
+  width: 200px;
+  font-size: 18px;
+  padding: 10px;
+  border: none;
+  background: #000;
+  color: #fff;
+  cursor: pointer;
+}
+
+.lol {
+  background: #ddd;
+  color: black;
+} */
